@@ -12,4 +12,4 @@ Ha ha ha ha ha ha haa.. ha ha ha haaa
 
 ### Contact me
 
-[email@domain.com](mailto:dontcontactme@domain.com)
+[dontcontactme](mailto:dontcontactme@domain.com)
